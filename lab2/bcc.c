@@ -1,4 +1,3 @@
-#include<stdio.h>
 int main()
 {
     int count=0;
@@ -17,5 +16,6 @@ int main()
         }
     }
     printf("the amount is:%d\n",count);
-    return 0;
+    return 0;#include<stdio.h>
+
 }
